@@ -16,5 +16,11 @@ public class Ques2 {
 }
 
 
+// This is a java program as i am doing my DSA in java ....
+// i have taken a array ok... then i have taken a new array empty so that i could copy the output in it ... 
+// bcoz in array nothing can be directly altered in it we have to copy the output . 
+// So, at last i have taken a loop which continuously run till it mutiply every number in the array.
+// At the end : - Simple print statement !!!
 
+// Happy Coding !!!!......
 
