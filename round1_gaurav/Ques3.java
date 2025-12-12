@@ -1,7 +1,7 @@
 //  Write a program to find whether a given target value exists in the array or not.
 
 
-package Round1;
+package round1_gaurav;
 
 public class Ques3 {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
 //  Write a program that takes an array as input and prints all its elements.
 
-package Round1;
+package round1_gaurav;
 
-import java.util.Scanner;
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Ques1 {
     public static void main(String[] args) {
